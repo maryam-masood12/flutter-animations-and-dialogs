@@ -1,18 +1,51 @@
-# flutter_dialogs
+# 🎭 Flutter Animations & Dialogs
 
-A new Flutter project.
+A Flutter project showcasing smooth UI animations and different types of dialogs and interactive components. This project demonstrates how to create user-friendly interfaces using Material and Cupertino widgets.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 🎬 Smooth Flutter Animations
+* 🤖 Material (Android) Dialogs
+* 🍎 Cupertino (iOS) Dialogs
+* 📋 Modal Bottom Sheets
+* 📅 Date Picker
+* ⏰ Time Picker
+* 🎨 Clean and Responsive UI
+* 📱 Cross-platform Support
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material Design
+* Cupertino Widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
 
+### Clone the repository
+
+```bash
+git clone https://github.com/maryam-masood12/flutter-animations-and-dialogs.git
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the project
+
+```bash
+flutter run
+```
+
+## 🎯 Project Purpose
+
+The purpose of this project is to practice Flutter UI development by implementing animations, platform-specific dialogs, bottom sheets, and picker components while improving reusable widget and function handling.
+
+## 👩‍💻 Author
+
+**Maryam Masood**
+
+⭐ Feel free to star this repository if you find it helpful!
